@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Spider-Man",
+    "universe": "Marvel",
+    "powers": ["Spider Sense", "Wall Crawling", "Web Shooting", "Super Strength"],
+    "bio": "Peter Parker became Spider-Man after being bitten by a radioactive spider.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/21/Web_of_Spider-Man_Vol_1_129-1.png"
+  },
+  {
+    "name": "Iron Man",
+    "universe": "Marvel",
+    "powers": ["Genius Intellect", "Powered Armor Suit", "Flight", "Energy Blasts"],
+    "bio": "Tony Stark, a billionaire industrialist and genius inventor, created a powered suit of armor to save his life.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/47/Iron_Man_%28circa_2018%29.png"
+  },
+  {
+    "name": "Thor",
+    "universe": "Marvel",
+    "powers": ["Super Strength", "Weather Manipulation", "Longevity", "Flight via Mjolnir"],
+    "bio": "The God of Thunder from Asgard, Thor wields the enchanted hammer Mjolnir.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/3/3c/Chris_Hemsworth_as_Thor.jpg"
+  },
+  {
+    "name": "Hulk",
+    "universe": "Marvel",
+    "powers": ["Super Strength", "Invulnerability", "Regeneration", "Limitless Stamina"],
+    "bio": "After being exposed to massive amounts of gamma radiation, scientist Bruce Banner transforms into the monstrous Hulk.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/aa/Hulk_%28circa_2019%29.png"
+  },
+  {
+    "name": "Doctor Strange",
+    "universe": "Marvel",
+    "powers": ["Mastery of Magic", "Dimensional Travel", "Time Manipulation", "Flight via Cloak"],
+    "bio": "Once a brilliant but arrogant surgeon, Stephen Strange lost the use of his hands in an accident.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/4f/Doctor_Strange_Vol_4_2_Cover.jpg"
+  },
+  {
+    "name": "Captain America",
+    "universe": "Marvel",
+    "powers": ["Peak Human Strength", "Agility", "Master Tactician", "Indestructible Shield"],
+    "bio": "Steve Rogers, a frail young man enhanced to the peak of human perfection by an experimental serum.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/91/CaptainAmerica109.jpg"
+  },
+  {
+    "name": "Batman",
+    "universe": "DC",
+    "powers": ["Genius Intellect", "Master Detective", "Martial Arts", "Advanced Technology"],
+    "bio": "After witnessing the murder of his parents, Bruce Wayne swore vengeance against criminals.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/c7/Batman_Infobox.jpg"
+  },
+  {
+    "name": "Superman",
+    "universe": "DC",
+    "powers": ["Super Strength", "Flight", "Heat Vision", "Invulnerability"],
+    "bio": "Born Kal-El on the dying planet Krypton, he was sent to Earth where he uses his incredible powers to protect his adopted home.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/3/35/Supermanflying.png"
+  },
+  {
+    "name": "Wonder Woman",
+    "universe": "DC",
+    "powers": ["Super Strength", "Flight", "Combat Skill", "Lasso of Truth"],
+    "bio": "Diana, princess of the Amazons, trained to be an unconquerable warrior.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/93/Wonder_Woman.jpg"
+  },
+  {
+    "name": "Flash",
+    "universe": "DC",
+    "powers": ["Super Speed", "Time Travel", "Phasing", "Accelerated Healing"],
+    "bio": "Barry Allen gained super speed after being struck by lightning and doused in chemicals.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/ed/The_Flash_%28Barry_Allen%29.jpg"
+  },
+  {
+    "name": "Aquaman",
+    "universe": "DC",
+    "powers": ["Underwater Telepathy", "Super Strength", "Amphibious Adaptation", "Durability"],
+    "bio": "Arthur Curry is the King of Atlantis. He is half-human and half-Atlantean.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/0a/Aquaman_issue_1%2C_the_new_52.jpg"
+  },
+  {
+    "name": "Joker",
+    "universe": "DC",
+    "powers": ["Genius Intellect", "Master Strategist", "Chemical Engineering", "Unpredictability"],
+    "bio": "A criminal mastermind with a clown-like appearance, the Joker is Batman's greatest enemy.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/98/Joker_%28DC_Comics_character%29.jpg"
+  }
+]
